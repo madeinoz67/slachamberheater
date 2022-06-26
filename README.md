@@ -1,6 +1,6 @@
 # STR-21-007-SLAChamberHeater
 
-SLA Chamber Hearter for Resin Printers
+SLA Chamber Heater for Resin Printers
 
 ## Project Features
 
