@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "slachamberheater"
+version = "0.0.0"
+description = "SLA Chamber Hearter for Resin Printers"
+authors = ["Stephen Eaton"]
+license = "CERN-OHL-P"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+mkdocs-material = "^8"
+mkdocs-mermaid2-plugin = "^0.5"
+mkdocs-macros-plugin = "^0.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
