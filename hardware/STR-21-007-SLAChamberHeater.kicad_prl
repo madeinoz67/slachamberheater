@@ -70,6 +70,19 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "STR-21-007-SLAChamberHeater.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 75,
+          "pos_y": -25,
+          "size_x": 1362,
+          "size_y": 1007
+        }
+      }
+    ]
   }
 }
