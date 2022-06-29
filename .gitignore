@@ -55,3 +55,5 @@ site/
 
 #TODO: Add CPP / Arduino ignores
 *.log
+#auto_saved_files#
+hardware/STR-21-007-SLAChamberHeater-backups

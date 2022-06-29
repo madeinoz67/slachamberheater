@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "STR-MOSFETS")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-MOSFETS.kicad_sym")(options "")(descr ""))
+  (lib (name "STR-Fuses")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-Fuses.kicad_sym")(options "")(descr ""))
+  (lib (name "STR-ESP32")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-ESP32.kicad_sym")(options "")(descr ""))
+)

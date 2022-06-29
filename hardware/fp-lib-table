@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "STR-ESP32")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/STR-ESP32.pretty")(options "")(descr "Expressif ESP32 modules footprints"))
+)
