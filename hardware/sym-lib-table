@@ -2,4 +2,7 @@
   (lib (name "STR-MOSFETS")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-MOSFETS.kicad_sym")(options "")(descr ""))
   (lib (name "STR-Fuses")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-Fuses.kicad_sym")(options "")(descr ""))
   (lib (name "STR-ESP32")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-ESP32.kicad_sym")(options "")(descr ""))
+  (lib (name "STR-DCDC")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-DCDC.kicad_sym")(options "")(descr ""))
+  (lib (name "STR-LED")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-LED.kicad_sym")(options "")(descr ""))
+  (lib (name "STR-Sensors")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-Sensors.kicad_sym")(options "")(descr ""))
 )

@@ -75,10 +75,10 @@
         "name": "STR-21-007-SLAChamberHeater.kicad_sch",
         "open": false,
         "window": {
-          "display": 1,
+          "display": 2,
           "maximized": true,
-          "pos_x": -1325,
-          "pos_y": -1778,
+          "pos_x": -966,
+          "pos_y": -1669,
           "size_x": 1512,
           "size_y": 944
         }
