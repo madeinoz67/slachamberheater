@@ -5,4 +5,7 @@
   (lib (name "STR-DCDC")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-DCDC.kicad_sym")(options "")(descr ""))
   (lib (name "STR-LED")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-LED.kicad_sym")(options "")(descr ""))
   (lib (name "STR-Sensors")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-Sensors.kicad_sym")(options "")(descr ""))
+  (lib (name "STR-Connectors")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-Connectors.kicad_sym")(options "")(descr ""))
+  (lib (name "STR-Switches")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-Switches.kicad_sym")(options "")(descr "Switch Library by Parkview https://gitlab.com/parkview/Switch-Parkview-Sampler"))
+  (lib (name "STR-USB")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/STR-USB.kicad_sym")(options "")(descr "USB Library by Parkview https://gitlab.com/parkview/https://gitlab.com/parkview/USB-Connector-Sampler"))
 )

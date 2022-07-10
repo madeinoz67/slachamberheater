@@ -1,4 +1,9 @@
 (fp_lib_table
   (lib (name "STR-ESP32")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/STR-ESP32.pretty")(options "")(descr "Expressif ESP32 modules footprints"))
   (lib (name "STR-LED")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/STR-LED.pretty")(options "")(descr ""))
+  (lib (name "STR-CONN")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/STR-CONN.pretty")(options "")(descr ""))
+  (lib (name "STR-DFN")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/STR-DFN.pretty")(options "")(descr ""))
+  (lib (name "STR-Switch")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/STR-Switch.pretty")(options "")(descr ""))
+  (lib (name "STR-USB")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/STR-USB.pretty")(options "")(descr ""))
+  (lib (name "STR-Sensors")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/STR-Sensors.pretty")(options "")(descr ""))
 )
