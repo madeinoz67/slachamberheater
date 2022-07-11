@@ -1647,7 +1647,7 @@
     (uuid 2bc6590f-77e2-4da5-8cf9-f8c3880f53e9)
     (property "Reference" "Q101" (id 0) (at 90.17 58.42 90))
     (property "Value" "RU30L30M3" (id 1) (at 90.17 60.96 90))
-    (property "Footprint" "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm" (id 2) (at 88.265 69.85 0)
+    (property "Footprint" "STR-DFN:PDFN3333" (id 2) (at 88.265 69.85 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2205271730_Shenzhen-ruichips-Semicon-RU30L30M3_C2895257.pdf" (id 3) (at 83.82 74.93 0)

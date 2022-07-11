@@ -489,16 +489,16 @@
       (reference "LED401") (unit 1) (value "WS2812B") (footprint "STR-LED:WS2812B")
     )
     (path "/153f7fba-c566-49c2-855b-216fa7b9af70/2bc6590f-77e2-4da5-8cf9-f8c3880f53e9"
-      (reference "Q101") (unit 1) (value "RU30L30M3") (footprint "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm")
+      (reference "Q101") (unit 1) (value "RU30L30M3") (footprint "STR-DFN:PDFN3333")
     )
     (path "/63c7be3c-8261-4b72-9a61-2e95c2deee17/717e4283-9f2a-4d0d-89d0-5e7b888a6d9b"
       (reference "Q301") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/63c7be3c-8261-4b72-9a61-2e95c2deee17/c6aa9b85-6f93-451f-b85d-49b9487fa2b1"
-      (reference "Q302") (unit 1) (value "RU30L30M3") (footprint "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm")
+      (reference "Q302") (unit 1) (value "RU30L30M3") (footprint "STR-DFN:PDFN3333")
     )
     (path "/63c7be3c-8261-4b72-9a61-2e95c2deee17/2a33869c-e9af-48a5-a960-a387aa76153a"
-      (reference "Q303") (unit 1) (value "RU3070M3") (footprint "STR-DFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm")
+      (reference "Q303") (unit 1) (value "RU3070M3") (footprint "STR-DFN:PDFN3333")
     )
     (path "/63c7be3c-8261-4b72-9a61-2e95c2deee17/aef778f8-e66a-47b9-987e-30d253556485"
       (reference "Q304") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -588,7 +588,7 @@
       (reference "U202") (unit 1) (value "USBLC6-2SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/63c7be3c-8261-4b72-9a61-2e95c2deee17/5a3663db-a4d9-4908-854d-2cd45cf97b89"
-      (reference "U301") (unit 1) (value "LM75BDP") (footprint "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm")
+      (reference "U301") (unit 1) (value "LM75BDP") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/63c7be3c-8261-4b72-9a61-2e95c2deee17/a25aeec2-e52a-4b01-9a74-f549ac6ec16d"
       (reference "U302") (unit 1) (value "MLX90614ESF-BAA-000-TU") (footprint "STR-Sensors:TO254P942H425-4")
