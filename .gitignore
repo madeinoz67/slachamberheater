@@ -61,3 +61,5 @@ site/
 #auto_saved_files#
 .vscode/
 diagrams/*.bkp
+hardware/#auto_saved_files#
+hardware/STR-21-007-SLAChamberHeater_AR-Check.txt
