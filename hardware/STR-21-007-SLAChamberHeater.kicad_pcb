@@ -6,9 +6,9 @@
 
   (paper "A4")
   (title_block
-    (title "SLA Chamber Hearter for Resin Printers")
-    (date "2022-06-26")
-    (rev "A")
+    (title "SLA Chamber Heater for Resin Printers")
+    (date "%%date%%")
+    (rev "%%version%%")
     (comment 1 "Author: Stephen Eaton")
     (comment 2 "Project Github: https://github.com/madeinoz67/slachamberheater")
     (comment 3 "License: CERN-OHL-P")

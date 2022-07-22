@@ -63,3 +63,10 @@ site/
 diagrams/*.bkp
 hardware/#auto_saved_files#
 hardware/STR-21-007-SLAChamberHeater_AR-Check.txt
+# Output files
+outputs/3d_models/*
+outputs/assembly/*
+outputs/fabrication/*
+outputs/images/*
+outputs/pdf/*
+!outputs/**/.gitkeep
