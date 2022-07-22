@@ -65,7 +65,7 @@ jobs:
       # Actually run KiBot to generate all the files. The KiBot script used is
       # in the 1_pcb/.kibot/release.kibot.yaml folder.
       - name: Generate documentation
-        uses: INTI-CMNB/KiBot@3acaa425740658045e0f1ecda7220e7dc6f7d2e3
+        uses: INTI-CMNB/KiBot@v2_k6
         with:
           config: hardware/.kibot/gerber_outputs.kibot.yaml
           dir: ${{ env.OutputFolder }}
