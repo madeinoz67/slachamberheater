@@ -16,7 +16,7 @@ preflight:
   filters:
     - filter: 'Ignore holes in antenna keepout'
       error: 'items_not_allowed'
-      regex:  'Through hole pad [<no net>] of H'
+      regex:  'Through hole pad'
     - filter: 'Ignore Courtyard Overlap of J101'
       error: 'courtyards_overlap'
       regex:  'Footprint J101'
